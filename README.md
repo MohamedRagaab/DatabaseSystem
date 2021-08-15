@@ -8,8 +8,11 @@
   * Multi-user
   * Convenient
   * Efficient
-  * Reliable
-  
+  * Reliable 
+* Database applications ma be programmed via "frameworks"
+* DBMS may run in conjunction with "middleware"
+* Data-intensive appications may not use DBMS at all.
+*
 
 
 
