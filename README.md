@@ -14,8 +14,25 @@
 * Data-intensive appications may not use DBMS at all.
 
 ## Key concepts
+* Data Model 
+  * How data is structured (General form of data that is stored in the database).  
+* Schema Versus data
+  * schema is the types and data is the variables. 
+* Data definition language (DDL)
+  * Setup schema strudcure. 
+* Data manipulation or quary language (DML)
+  * Quaring and modifing.
 
-
+## Key People
+* DBMS implementer
+  * Builds system.
+* Database designer
+  * Establish schema.  
+* Database application developer
+  * programs that operate an the database.
+* Database administrator
+  *  Loads data, keeps running smookly.
+ 
 
 
 
