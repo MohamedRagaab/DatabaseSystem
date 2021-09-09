@@ -55,8 +55,13 @@
 * Design schema; create using DDL
 * "Bulk load" initial data
 * Repeat: execute queries and modifications
-
-
+* Queries return relations ("Compositional", "closed")
+### Query Language
+* Relational Algebra
+* SQL
+  * Example: IDs of student with GPA > 3.7 applying to stanford 
+   * Select Student.ID From Student, Apply Where Student.ID = Apply.ID And GPA > 3.7 and Collage = 'Stanford'
+   
 
 
 
